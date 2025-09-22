@@ -15,13 +15,13 @@ Welcome to the world of Artificial Intelligence! This topic covers everything yo
 
 ---
 
-## What AI means {#what-ai-means}
+## What AI means 
 
 AI is when computers do tasks that usually need human thinking—like understanding language, recognizing pictures, making suggestions, or planning steps to reach a goal.
 
 Think of AI as a smart helper: it learns from many examples, spots patterns, and then gives its best answer.
 
-## Where you already use AI {#where-you-already-use-ai}
+## Where you already use AI 
 
 You're probably using AI more than you realize! Here are common examples:
 
@@ -43,7 +43,7 @@ You're probably using AI more than you realize! Here are common examples:
 
 **Analogy**: Traditional software = a recipe. AI = a cook who learned from thousands of dishes and adapts to your taste.
 
-## AI, Machine Learning (ML), and Deep Learning (DL) {#ai-ml-and-deep-learning}
+## AI, Machine Learning (ML), and Deep Learning (DL)
 
 Think of these as nested concepts:
 
@@ -51,7 +51,7 @@ Think of these as nested concepts:
 - **ML**: A way for computers to learn from data
 - **DL**: A powerful kind of ML that learns very complex patterns (great for images, speech, language)
 
-## How AI learns {#how-ai-learns}
+## How AI learns
 
 Here's the process without technical jargon:
 
@@ -63,7 +63,7 @@ Here's the process without technical jargon:
 - **Training** = learning time (slow, done by teams/companies)
 - **Using (inference)** = answer time (fast, what you see)
 
-## What AI is good at—and not good at {#what-ai-is-good-at}
+## What AI is good at—and not good at 
 
 ### ✅ AI is good at:
 - Finding patterns in data
@@ -90,7 +90,7 @@ Here are essential safety tips for using AI:
 - **Ask for sources** when facts matter
 - **Use AI fairly**—don't harm or mislead others
 
-## Myths vs. reality {#myths-vs-reality}
+## Myths vs. reality 
 
 Let's clear up some common misconceptions:
 
@@ -110,6 +110,3 @@ Let's clear up some common misconceptions:
 - Always use AI responsibly and safely
 - AI is a tool to work with, not replace human judgment
 
-## ➡️ Next Steps
-
-Ready to dive deeper? Check out more topics in this repository or explore specific AI applications that interest you!
