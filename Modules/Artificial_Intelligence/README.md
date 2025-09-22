@@ -33,7 +33,7 @@ You're probably using AI more than you realize! Here are common examples:
 - **Phone camera**: Clearer photos, face recognition
 - **Voice assistants**: Siri, Alexa, Google Assistant
 
-## AI vs. traditional software {#ai-vs-traditional-software}
+## AI vs. traditional software 
 
 **Traditional software**: Follows fixed rules a programmer wrote.
 - Example: "If password matches, log in."
