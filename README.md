@@ -2,9 +2,9 @@
 
 A comprehensive guide to understanding Artificial Intelligence for beginners and everyday users.
 
-## 📚 Topics Covered
+## 📚 Modules Covered
 
-- **Topic 1**: [AI (Artificial Intelligence)](/topics/topic-1-ai/README.md)
+### **Module 1**: [AI (Artificial Intelligence)](/Modules/Artificial_Intelligence/README.md)
   - What AI means in simple words
   - Where you already use AI in everyday life
   - AI vs. traditional software
@@ -13,6 +13,15 @@ A comprehensive guide to understanding Artificial Intelligence for beginners and
   - What AI is good at and not good at
   - Safety basics for everyone
   - Myths vs. reality
+
+### **Module 2**: [The 5 Levels of AI](/Modules/The_5_Levels_of_AI/README.md)
+  - Level 1: Chatbot (Answer & Assist)
+  - Level 2: Reasoning (Step-by-Step Thinking)
+  - Level 3: Agentic AI (Plan → Act → Observe → Refine)
+  - Level 4: Innovation (Create New Ideas & Options)
+  - Level 5: Organization (AI-Ready Ways of Working)
+  - Moving Up the Levels - Quick Roadmap
+  - Common Mistakes to Avoid
 
 ## 🎯 About This Repository
 
